@@ -1,0 +1,17 @@
+name: TutPlugin
+main: tutorialplugin.snizce.Main
+version: 0.1
+author: Snizce
+commands:
+  test:
+    description: This is a test command!
+    usage: /test
+  heal:
+    description: Heals self!
+    usage: /heal
+  feed:
+    description: Feeds self!
+    usage: /feed
+  fly:
+    description: Toggles flight
+    usage: /fly
