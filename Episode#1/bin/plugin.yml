@@ -1,8 +1,0 @@
-name: TutPlugin
-main: tutorialplugin.snizce.Main
-version: 0.1
-author: Snizce
-commands:
-  test:
-    description: this is a test command!
-    usage: /test
